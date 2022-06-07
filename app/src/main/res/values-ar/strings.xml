@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">لعبة لغز الشبكة</string>
+    <string name="if_you_are_looking_for_best_design_furniture_with_cool_pricing_tag_we_are_here_to_hear">اذا كنت تبحث عن العاب رائعة ومعقدة فانت في المكان المناسب</string>
+    <string name="best_possible_furniture_for_your_home">افضل لعبة لتستمتع بها</string>
+    <string name="skip">تخطي</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">مرحبا جزء فارغ</string>
+    <string name="hi_welcome">اهلا، اهلا وسهلا</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="create_new_account">انشاء حساب جديد</string>
+    <string name="forgot_password">هل نسيت كلمة السر</string>
+    <string name="email_address">عنوان البريد الالكترونى</string>
+    <string name="submit">تم</string>
+    <string name="sign_up">اشتراك</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="enter_your_username">أدخل اسم المستخدم الخاص بك</string>
+    <string name="already_have_an_account">هل لديك حساب</string>
+    <string name="password_hint">********</string>
+    <string name="forget_password">نسيت كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="enter_your_name">أدخل أسمك</string>
+    <string name="password">كلمه السر</string>
+    <string name="new_game">لعبة جديدة</string>
+    <string name="enter_your_password">ادخل رقمك السري</string>
+    <string name="settings">الإعدادات</string>
+    <string name="enter_your_email">أدخل بريدك الإلكتروني</string>
+    <string name="save">حفظ</string>
+    <string name="welcome">أهلا بك</string>
+    <string name="grid_puzzle_game">لعبة لغز الشبكة</string>
+    <string name="enter_a_number">ادخل الرقم</string>
+    <string name="check">فحص</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="show_all_games">عرض جميع الالعاب</string>
+    <string name="show_last_game_time">عرض تاريخ ووقت اخر لعبة</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="clear_game_history">حذف جميع الالعاب</string>
+    <string name="not_has_any_game">لا يوجد اي لعبة</string>
+    <string name="changepassword">تغيير كلمة المرور</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="confirm_new_password">تاكيد كلمة المرور الجديدة</string>
+    <string name="enter_your_confirm_new_password">ادخل تاكيد كلمة المرور الجديدة</string>
+    <string name="old_password">كلمة المرور القديمة</string>
+    <string name="confirm_password">تاكيد كلمةالمرور</string>
+    <string name="enter_your_confirm_password">ادخل تاكيد كلمة المرور</string>
+    <string name="start">ابدا</string>
+    <string name="not_available_username">لا يتوفر اسم حاليا</string>
+</resources>

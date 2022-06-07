@@ -1,0 +1,92 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--    <androidx.viewpager.widget.ViewPager-->
+    <!--        android:id="@+id/viewPager"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="320dp"-->
+    <!--        />-->
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPager2"
+        android:layout_width="match_parent"
+        android:layout_height="320dp" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="@string/best_possible_furniture_for_your_home"
+            android:textColor="@color/blue"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/if_you_are_looking_for_best_design_furniture_with_cool_pricing_tag_we_are_here_to_hear"
+            android:textColor="@color/gray"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/relativeLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginTop="60dp"
+            android:orientation="horizontal">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnSkip"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@color/white"
+                android:layout_marginStart="50dp"
+                android:text="@string/skip"
+                android:textColor="@color/blue"
+                android:textSize="14sp" />
+
+
+
+
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="180dp"
+                >
+                <ImageButton
+                    android:id="@+id/btnNext"
+                    android:visibility="visible"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/out_boarding_button_next"
+                    android:src="@drawable/ic_baseline_keyboard_arrow_right_24" />
+
+
+                <Button
+                    android:id="@+id/btnStart"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:text="@string/start"
+                    android:background="@drawable/out_boarding_button_next"
+                    android:src="@drawable/ic_baseline_keyboard_arrow_right_24"
+                    android:visibility="invisible"
+                    android:layout_marginEnd="20dp"/>
+
+            </FrameLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

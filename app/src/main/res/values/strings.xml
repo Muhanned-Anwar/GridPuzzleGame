@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">GridPuzzleGame</string>
+    <string name="if_you_are_looking_for_best_design_furniture_with_cool_pricing_tag_we_are_here_to_hear">If you are looking for great and complex games, then you are in the right place</string>
+    <string name="best_possible_furniture_for_your_home">The best game to enjoy</string>
+    <string name="skip">Skip</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_welcome">Hi, welcome</string>
+    <string name="email">Email</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="submit">Submit</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">UserName</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="password_hint">********</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="password">password</string>
+    <string name="new_game">new game</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="settings">Settings</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="save">Save</string>
+    <string name="welcome">WELCOME</string>
+    <string name="grid_puzzle_game">Grid Puzzle Game</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="check">Check</string>
+    <string name="logout">Logout</string>
+    <string name="show_all_games">Show all games</string>
+    <string name="show_last_game_time">Show last game time</string>
+    <string name="change_password">Change password</string>
+    <string name="clear_game_history">Clear Game history</string>
+    <string name="not_has_any_game">No Has Any Game</string>
+    <string name="changepassword">ChangePassword</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="enter_your_confirm_new_password">Enter your confirm new password</string>
+    <string name="old_password">Old Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_your_confirm_password">Enter your confirm password</string>
+    <string name="start">Start</string>
+    <string name="not_available_username">Not Available Username</string>
+</resources>
